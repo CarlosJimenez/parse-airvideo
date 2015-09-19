@@ -1,0 +1,31 @@
+{
+  "name": "parse-airvideo",
+  "version": "1.0.0",
+  "description": "Parse or serialize Airvideo",
+  "main": "index.js",
+  "scripts": {
+  },
+  "files": [
+    "*.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CarlosJimenez/parse-airvideo.git"
+  },
+  "keywords": [
+    "parse",
+    "types",
+    "stringify",
+    "deserialization",
+    "serialization"
+  ],
+  "author": "cjimenez",
+  "bugs": {
+    "url": "https://github.com/CarlosJimenez/parse-airvideo/issues"
+  },
+  "homepage": "https://github.com/CarlosJimenez/parse-airvideo",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
